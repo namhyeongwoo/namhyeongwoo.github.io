@@ -1,0 +1,138 @@
+{
+  "name": "Hyeongwoo Nam",
+  "title": "Integrated M.S./Ph.D. Student, Mechanical Engineering, Yonsei University",
+  "lab": "Machine Learning & Control Systems Lab",
+  "contact": [
+    [
+      {
+        "text": "namh_woo@yonsei.ac.kr",
+        "url": "mailto:namh_woo@yonsei.ac.kr"
+      },
+      {
+        "text": "+82-10-5067-1737"
+      },
+      {
+        "text": "namhyeongwoo.github.io",
+        "url": "https://namhyeongwoo.github.io/"
+      }
+    ]
+  ],
+  "interests": "Embodied AI, Robot Memory, Spatial Reasoning, Agentic AI, Robot Task Planning, Neuro-Symbolic AI",
+  "education": [
+    {
+      "school": "Yonsei University",
+      "location": "Seoul, Republic of Korea",
+      "date": "Sep 2023 – Present",
+      "degree": "Integrated M.S./Ph.D. in Mechanical Engineering",
+      "detail": "Advisor: Prof. Jongeun Choi"
+    },
+    {
+      "school": "Yonsei University",
+      "location": "Seoul, Republic of Korea",
+      "date": "Mar 2017 – Aug 2023",
+      "degree": "B.S. in Mechanical Engineering",
+      "detail": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Project Manager, NRF Basic Research Laboratory (BRL) Project",
+      "date": "Jul 2026 – Present",
+      "project": "Spatial Intelligence for Robotic Autonomy: From World Reasoning to Precision Control",
+      "org": "National Research Foundation of Korea · Machine Learning & Control Systems Lab, Yonsei University"
+    }
+  ],
+  "publications": {
+    "conference": [
+      {
+        "title": "OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning",
+        "authors": [
+          "Hyeongwoo Nam",
+          "Woongje Cho*",
+          "Juwon Kim*",
+          "Jongeun Choi†"
+        ],
+        "venue": "Conference on Neural Information Processing Systems (NeurIPS), 2026",
+        "note": "* Equal contribution, † Corresponding author",
+        "links": [
+          {
+            "text": "arXiv:2610.07649",
+            "url": "https://arxiv.org/abs/2610.07649"
+          },
+          {
+            "text": "Code: github.com/namhyeongwoo/OntoPlan",
+            "url": "https://github.com/namhyeongwoo/OntoPlan"
+          }
+        ]
+      }
+    ],
+    "journal": [
+      {
+        "title": "Data-Driven Driver Training via Counterfactual and Language-Based Guidance in Racing Scenarios",
+        "authors": [
+          "Jonghak Bae",
+          "Hyeongwoo Nam",
+          "Kunhee Ryu",
+          "Jihye Lee",
+          "Jinsung Kim",
+          "Hokyun Chun",
+          "Jongtaek Han",
+          "Jongeun Choi"
+        ],
+        "venue": "IEEE Access, vol. 13, pp. 170181–170199, 2025",
+        "links": [
+          {
+            "text": "DOI: 10.1109/ACCESS.2025.3615128",
+            "url": "https://doi.org/10.1109/ACCESS.2025.3615128"
+          }
+        ]
+      },
+      {
+        "title": "Scale-Equivariant Object Perception for Autonomous Driving",
+        "authors": [
+          "Taekhyung Cho",
+          "Hyeongwoo Nam",
+          "Jongeun Choi"
+        ],
+        "venue": "IEEE Transactions on Intelligent Vehicles, vol. 10, no. 9, pp. 4361–4370, 2025",
+        "links": [
+          {
+            "text": "DOI: 10.1109/TIV.2024.3382034",
+            "url": "https://doi.org/10.1109/TIV.2024.3382034"
+          }
+        ]
+      }
+    ]
+  },
+  "honors": [
+    {
+      "name": "AI Seoul Tech Graduate Scholarship (Ph.D.)",
+      "org": "Seoul Future Foundation",
+      "date": "Fall 2025"
+    },
+    {
+      "name": "1st Place, Oral Presentation",
+      "org": "5th Industry–Academia Project Showcase, Future Vehicle Core Technology R&D Workforce Program",
+      "date": "Jan 2025"
+    }
+  ],
+  "updated": "October 2026",
+  "skills": [
+    {
+      "label": "Programming",
+      "items": "Python, C++"
+    },
+    {
+      "label": "Frameworks",
+      "items": "PyTorch, LangGraph"
+    },
+    {
+      "label": "Planning & Knowledge",
+      "items": "PDDL, Fast Downward, OWL / RDF, SPARQL"
+    },
+    {
+      "label": "Tools",
+      "items": "Linux, Git, Docker"
+    }
+  ]
+}
